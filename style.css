@@ -1,11 +1,18 @@
-/*Reset*/
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/*Default*/
+:root {
+  --color1: #30728C;
+  --color2: #41D9BD;
+  --color3: #BF6A39;
+  --color4: #592918;
+  --color5: #400505;
+  /* Color Pallet:  https://color.adobe.com/pt/trends/Game-design?page=1  */
+}
+
 html{
   font-family: 'Roboto', sans-serif;
   font-size: 62.5%;
