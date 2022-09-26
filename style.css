@@ -98,3 +98,10 @@ body{
     padding: 1.5rem;
   }
 }
+
+h3 {
+  font-size: 2rem;
+  color: var(--color5);
+  text-align: center;
+  padding: 2rem;
+}
